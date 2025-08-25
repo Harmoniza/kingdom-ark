@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sitemap | Kingdom & Ark</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Sitemap</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="sitemap.html">Sitemap</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="topics/origin.html">Origins of the Ark</a></li>
+      <li><a href="topics/prophecies.html">Prophecies & Fulfillment</a></li>
+      <li><a href="topics/kingdom-within.html">The Kingdom Within</a></li>
+      <li><a href="blog/index.html">Blog</a></li>
+      <li><a href="store/index.html">Store</a></li>
+      <li><a href="privacy.html">Privacy Policy</a></li>
+      <li><a href="terms.html">Terms & Conditions</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Kingdom & Ark | <a href="sitemap.html">Sitemap</a></p>
+  </footer>
+</body>
+</html>

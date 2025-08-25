@@ -1,0 +1,81 @@
+Perfect 👌 thanks for sharing your current directory. I see your C:\Users\df\Desktop\kingdom-ark-site already has the foundation plus some completed files. Right now, the topics folder only has part-1.html. To keep momentum and stay consistent with our plan, let’s extend the topics folder so it’s ready for all the parts (we’ll gradually fill the content).
+
+Here’s the enhanced full structure with what you have + the missing pieces (I’ll mark ✅ = already filled with content, 📄 = file created but empty/placeholder, 🕊️ = next to be filled with studies):
+
+📂 kingdom-ark-site (root)
+
+📄 index.html ✅
+
+📄 about.html ✅
+
+📄 contact.html ✅
+
+📄 newsletter.html ✅
+
+📄 privacy.html ✅
+
+📄 terms.html ✅
+
+📄 sitemap.xml ✅
+
+📄 robots.txt 📄
+
+📄 manifest.webmanifest 📄
+
+📄 sw.js 📄
+
+📄 feed.xml 📄
+
+📄 LICENSE 📄
+
+📄 README.md 📄
+
+📄 structure ✅
+
+📂 assets
+
+(css, js, images — already being filled as we go ✅)
+
+📂 blog
+
+📄 index.html ✅
+
+📄 post-template.html ✅
+
+📂 store
+
+📄 index.html ✅
+
+📂 printables
+
+(empty for now — will hold study packs / downloads 📄)
+
+📂 topics
+
+📄 part-1.html 🕊️ (Jewish Roots Before Jesus – DONE)
+
+📄 part-2.html 🕊️ (Second Temple Judaism & Messianic Expectation – IN PROGRESS)
+
+📄 part-3.html 📄 (Jesus’ Teachings & Radical Reinterpretations)
+
+📄 part-4.html 📄 (The Apostolic Age & Early Church)
+
+📄 part-5.html 📄 (Persecutions, Councils & Doctrinal Battles)
+
+📄 part-6.html 📄 (Books Removed, Hidden, & Contested Scriptures)
+
+📄 part-7.html 📄 (Rise of Roman Christianity & Shaping Orthodoxy)
+
+📄 part-8.html 📄 (Medieval Faith, Mystics, & Jewish-Christian Encounters)
+
+📄 part-9.html 📄 (Reformations, Counter-Reformations, and Beyond)
+
+📄 part-10.html 📄 (Modern Faith, Ancient Roots – Continuity & Challenges)
+
+✅ That way:
+
+The site skeleton is now complete.
+
+We can fill topics/part-2.html fully (our current task).
+
+After each part, you’ll also have a printable PDF study pack in /printables as a bonus lead magnet.

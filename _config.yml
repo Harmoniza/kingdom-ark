@@ -1,0 +1,46 @@
+# ---------------------------
+# Kingdom Ark - Jekyll Config
+# ---------------------------
+
+# Site settings
+title: "Kingdom Ark"
+description: "A sanctuary for study, reflection, and inspiration."
+url: "http://127.0.0.1:4000/"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Include / Exclude
+include:
+  - "_includes"
+  - "_layouts"
+exclude:
+  - "node_modules"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+
+# Plugins
+plugins: []
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about.html"
+  - title: "Contact"
+    url: "/contact.html"
+  - title: "Newsletter"
+    url: "/newsletter.html"
+  - title: "Topics"
+    url: "/topics/index.html"
+  - title: "Store"
+    url: "/store/"
+  - title: "Privacy"
+    url: "/privacy.html"
+  - title: "Terms"
+    url: "/terms.html"
