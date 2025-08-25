@@ -5,8 +5,8 @@
 # Site settings
 title: "Kingdom Ark"
 description: "A sanctuary for study, reflection, and inspiration."
-url: "http://127.0.0.1:4000/"
-baseurl: ""
+url: "https://harmoniza.github.io"
+baseurl: "/kingdom-ark"
 
 # Build settings
 markdown: kramdown
