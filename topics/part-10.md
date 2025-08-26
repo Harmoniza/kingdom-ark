@@ -5,24 +5,8 @@ description: "Final integration of all parts: prophecy, mystical texts, inner aw
 permalink: /topics/part-10.html
 ---
 
-  <nav>
-    <ul>
-      <li><a href="../index.html">Home</a></li>
-      <li><a href="part-1.html">Part I</a></li>
-      <li><a href="part-2.html">Part II</a></li>
-      <li><a href="part-3.html">Part III</a></li>
-      <li><a href="part-4.html">Part IV</a></li>
-      <li><a href="part-5.html">Part V</a></li>
-      <li><a href="part-6.html">Part VI</a></li>
-      <li><a href="part-7.html">Part VII</a></li>
-      <li><a href="part-8.html">Part VIII</a></li>
-      <li><a href="part-9.html">Part IX</a></li>
-      <li><a class="active" href="part-10.html">Part X</a></li>
-    </ul>
-  </nav>
-</header>
+<main itemprop="articleBody">
 
-<main>
   <nav aria-label="Table of contents" class="grid" style="padding-top: 1rem">
     <article>
       <h3>Contents</h3>
@@ -39,7 +23,7 @@ permalink: /topics/part-10.html
   </nav>
 
   <!-- 10.0 -->
-  <section id="vision-intro" class="content" style="padding: 1rem 2rem">
+  <section id="vision-intro" class="content">
     <h2>10.0 — Introduction</h2>
     <p>
       This final part ties together the full journey: the Ark of the Covenant, hidden scriptures,
@@ -49,7 +33,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.1 -->
-  <section id="integration-texts" class="content" style="padding: 1rem 2rem">
+  <section id="integration-texts" class="content">
     <h2>10.1 — Integrating Prophecy & Texts</h2>
     <ul>
       <li>Combine Jeremiah, 2 Maccabees, and Revelation insights on the Ark’s hidden and heavenly aspects.</li>
@@ -60,7 +44,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.2 -->
-  <section id="inner-awakening" class="content" style="padding: 1rem 2rem">
+  <section id="inner-awakening" class="content">
     <h2>10.2 — Inner Awakening Synthesized</h2>
     <div class="highlight">
       <p>
@@ -76,7 +60,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.3 -->
-  <section id="community-society" class="content" style="padding: 1rem 2rem">
+  <section id="community-society" class="content">
     <h2>10.3 — Community & Societal Application</h2>
     <ul>
       <li>Communities embody inner Kingdom values via shared rituals, ethical education, and symbolic leadership.</li>
@@ -86,7 +70,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.4 -->
-  <section id="hidden-ark-symbolism" class="content" style="padding: 1rem 2rem">
+  <section id="hidden-ark-symbolism" class="content">
     <h2>10.4 — Hidden Ark & Archetypal Symbolism</h2>
     <p>The Ark serves as a living archetype:</p>
     <ul>
@@ -97,7 +81,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.5 -->
-  <section id="reflection-practice" class="content" style="padding: 1rem 2rem">
+  <section id="reflection-practice" class="content">
     <h2>10.5 — Reflection & Practical Exercises</h2>
     <ul>
       <li>Daily meditation on inner presence and Kingdom principles.</li>
@@ -108,7 +92,7 @@ permalink: /topics/part-10.html
   </section>
 
   <!-- 10.6 -->
-  <section id="download-study" class="content" style="padding: 1rem 2rem">
+  <section id="download-study" class="content">
     <h2>10.6 — Complete Study Pack & Closing</h2>
     <p>
       You’ve reached the culmination of the series. Now, consolidate all 10 parts into a printable,
@@ -133,6 +117,7 @@ permalink: /topics/part-10.html
           The Ark, hidden scriptures, and the Kingdom within converge to show a complete vision: awakening,
           ethical living, community alignment, and societal transformation. The journey is ongoing—embody it daily.
         </p>
+        <a href="{{ site.baseurl }}/index.html">← Back to Home</a>
       </article>
     </div>
 

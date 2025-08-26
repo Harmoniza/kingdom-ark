@@ -26,10 +26,10 @@ permalink: /topics/part-2.html
     <h2>2.1 – Ancient Beliefs That Shaped Israel</h2>
     <p>
       Before Christ, Israel lived among nations rich in myth, symbolism, and
-      worship of the heavens. Mesopotamia spoke of the <strong>Tree of Life</strong> and divine councils. Egypt carried stories of gods descending, ruling, and resurrecting. Canaan told of Baal, the storm-god, and Asherah, the so-called “queen of heaven.”
+      celestial worship. Mesopotamia spoke of the <strong>Tree of Life</strong> and divine councils. Egypt carried stories of gods descending, ruling, and resurrecting. Canaan told of Baal, the storm-god, and Asherah, the so-called “queen of heaven.”
     </p>
     <p>
-      Israel, chosen to be distinct, was constantly tempted to blend these beliefs into their own worship. The prophets cried against this fusion, yet fragments of these ancient myths still echo in the Scriptures. <span class="note">Jeremiah 44 speaks of the people burning incense to the “queen of heaven,” a title predating Israel’s monotheistic faith.</span>
+      Israel, chosen to be distinct, was constantly tempted to blend these beliefs into their worship. The prophets cried against such fusion, yet fragments of these ancient myths still echo in Scripture. <span class="note">Jeremiah 44 recounts the people burning incense to the “queen of heaven,” a title predating Israel’s monotheistic faith.</span>
     </p>
   </section>
 
@@ -40,9 +40,9 @@ permalink: /topics/part-2.html
       Not all of Israel’s writings survived into the canon we hold today. Some were suppressed, others forgotten, yet they whisper of a larger story:
     </p>
     <ul>
-      <li><strong>1 Enoch</strong> – visions of angels descending, teaching mankind secrets, and the prophecy of a coming Son of Man.</li>
-      <li><strong>Jubilees</strong> – a retelling of Genesis with angelic involvement, cosmic calendars, and deeper layers of covenant.</li>
-      <li><strong>The Book of Jasher</strong> – referenced in Joshua and 2 Samuel, now largely lost.</li>
+      <li><strong>1 Enoch</strong> – Visions of angels descending, teaching mankind secrets, and the prophecy of a coming Son of Man.</li>
+      <li><strong>Jubilees</strong> – A retelling of Genesis with angelic involvement, cosmic calendars, and deeper layers of covenant.</li>
+      <li><strong>The Book of Jasher</strong> – Referenced in Joshua and 2 Samuel, now largely lost.</li>
     </ul>
     <p class="note">These books reveal a faith more <em>mystical, cosmic, and apocalyptic</em> than the later political structures allowed.</p>
   </section>
@@ -54,7 +54,7 @@ permalink: /topics/part-2.html
       The idea of a lost paradise—the garden of God—was not unique to Genesis. Mesopotamian myths spoke of a place where the gods walked with men, guarded by cherub-like beings. Ezekiel 28 and 31 recall the “trees of Eden,” comparing the pride of kings to those exalted in that ancient garden.
     </p>
     <p class="note">
-      The Eden memory became more than history—it was a symbol of what humanity had lost and what only God’s Kingdom could restore.
+      The Eden memory became more than history—it symbolized what humanity had lost and what only God’s Kingdom could restore.
     </p>
   </section>
 
@@ -79,7 +79,7 @@ permalink: /topics/part-2.html
       Even before Christ, the people whispered of a Deliverer. The Dead Sea Scrolls reveal communities expecting a Messiah, sometimes even two: one priestly, one kingly. Daniel foresaw a “Son of Man” coming with clouds. Isaiah spoke of a Servant who would suffer and yet triumph.
     </p>
     <p>
-      These hopes were not uniform, but they all pointed to a longing—for the restoration of Eden, for the defeat of corrupt powers, and for the rise of the true Kingdom of God.
+      These hopes were diverse, but they all pointed to a longing—for the restoration of Eden, for the defeat of corrupt powers, and for the rise of the true Kingdom of God.
     </p>
   </section>
 
@@ -87,7 +87,7 @@ permalink: /topics/part-2.html
   <section id="closing" class="content">
     <h2>2.6 – Closing Reflection</h2>
     <p>
-      Ancient beliefs, removed books, and prophetic tensions all converge into a single truth: humanity yearned for a Kingdom not made with hands. Yet between the whispers of Eden and the shadow of Zion, a deeper mystery was unfolding.
+      Ancient beliefs, removed books, and prophetic tensions converge into a single truth: humanity yearned for a Kingdom not made with hands. Yet between the whispers of Eden and the shadow of Zion, a deeper mystery unfolded.
     </p>
     <p>
       <strong>Next in Part 3:</strong> We step into the Second Temple era, where politics, prophecy, and expectation collided—setting the stage for the arrival of the King.
@@ -97,7 +97,7 @@ permalink: /topics/part-2.html
       <article>
         <h3>Next in the series → Part 3</h3>
         <p><em>The Second Temple Era and the Coming of the King</em></p>
-        <a href="part-3.html">Go to Part 3 →</a>
+        <a href="{{ site.baseurl }}/topics/part-3.html">Go to Part 3 →</a>
       </article>
 
       <article>

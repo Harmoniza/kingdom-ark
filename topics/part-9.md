@@ -5,16 +5,8 @@ description: "Exploring collective awakening, shared rituals, and how the hidden
 permalink: /topics/part-9.html
 ---
 
-<header>
-  <div class="logo">
-    <h1>Part 9 — Collective Awakening & Societal Transformation</h1>
-    <p class="subtitle">
-      Exploring how the inner Kingdom and the hidden Ark inspire communities and societal shifts.
-    </p>
-  </div>
-</header>
-
 <main itemprop="articleBody">
+
   <nav aria-label="Table of contents" class="grid" style="padding-top: 1rem">
     <article>
       <h3>Contents</h3>
@@ -45,7 +37,7 @@ permalink: /topics/part-9.html
   </nav>
 
   <!-- 9.0 -->
-  <section id="intro" class="content" style="padding: 1rem 2rem">
+  <section id="intro" class="content">
     <h2>9.0 — Introduction</h2>
     <p>
       Part 9 examines how awakening the inner Kingdom individually can ripple outward, inspiring communities, shaping culture, and even influencing governance. The hidden Ark symbolizes both personal and collective revelation.
@@ -53,7 +45,7 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.1 -->
-  <section id="shared-awakening" class="content" style="padding: 1rem 2rem">
+  <section id="shared-awakening" class="content">
     <h2>9.1 — Shared Spiritual Awakening</h2>
     <ul>
       <li>Small groups meditating or studying sacred texts together amplify inner realization.</li>
@@ -63,7 +55,7 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.2 -->
-  <section id="community-rituals" class="content" style="padding: 1rem 2rem">
+  <section id="community-rituals" class="content">
     <h2>9.2 — Community Rituals & Inner Alignment</h2>
     <div class="exercise">
       <h4>Shared Silence</h4>
@@ -80,7 +72,7 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.3 -->
-  <section id="societal-application" class="content" style="padding: 1rem 2rem">
+  <section id="societal-application" class="content">
     <h2>9.3 — Societal Application of the Inner Kingdom</h2>
     <ul>
       <li>Transformative education: teaching ethics, contemplation, and wisdom from prophecy.</li>
@@ -91,7 +83,7 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.4 -->
-  <section id="symbolic-leadership" class="content" style="padding: 1rem 2rem">
+  <section id="symbolic-leadership" class="content">
     <h2>9.4 — Symbolic Leadership & Archetypes</h2>
     <ul>
       <li>Leaders as living representations of inner Kingdom principles.</li>
@@ -101,7 +93,7 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.5 -->
-  <section id="tracking-community-growth" class="content" style="padding: 1rem 2rem">
+  <section id="tracking-community-growth" class="content">
     <h2>9.5 — Tracking Collective Growth</h2>
     <ul>
       <li>Document group reflections, meditations, and societal actions.</li>
@@ -114,17 +106,17 @@ permalink: /topics/part-9.html
   </section>
 
   <!-- 9.6 -->
-  <section id="closing" class="content" style="padding: 1rem 2rem">
+  <section id="closing" class="content">
     <h2>9.6 — Closing Thoughts & Part 10 Preview</h2>
     <p>
       Part 9 demonstrates that the inner Kingdom is not only personal but also communal. Part 10 will conclude the series, <strong>tying together prophecy, history, mystical texts, inner awakening, and societal transformation into a complete vision</strong>—ready for reflection, practice, and downloadable study.
     </p>
 
-    <div class="grid" style="margin-top: 1rem">
+    <div class="grid">
       <article>
         <h3>Next in the series → Part 10</h3>
         <p><em>Final integration of all parts, a full vision of the Ark, inner Kingdom, and its manifestation in life and society.</em></p>
-        <a href="part-10.html">Read Part 10 →</a>
+        <a href="{{ site.baseurl }}/topics/part-10.html">Read Part 10 →</a>
       </article>
 
       <article>

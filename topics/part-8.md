@@ -5,23 +5,23 @@ description: "Practical exercises, meditations, and reflections to experience th
 permalink: /topics/part-8.html
 ---
 
-  <nav>
+<main itemprop="articleBody">
+
+  <nav aria-label="Main navigation">
     <ul>
-      <li><a href="../index.html">Home</a></li>
-      <li><a href="part-1.html">Part I</a></li>
-      <li><a href="part-2.html">Part II</a></li>
-      <li><a href="part-3.html">Part III</a></li>
-      <li><a href="part-4.html">Part IV</a></li>
-      <li><a href="part-5.html">Part V</a></li>
-      <li><a href="part-6.html">Part VI</a></li>
-      <li><a href="part-7.html">Part VII</a></li>
-      <li><a class="active" href="part-8.html">Part VIII</a></li>
-      <li><a href="part-9.html">Part IX</a></li>
+      <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-1.html">Part I</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-2.html">Part II</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-3.html">Part III</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-4.html">Part IV</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-5.html">Part V</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-6.html">Part VI</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-7.html">Part VII</a></li>
+      <li><a class="active" href="{{ site.baseurl }}/topics/part-8.html">Part VIII</a></li>
+      <li><a href="{{ site.baseurl }}/topics/part-9.html">Part IX</a></li>
     </ul>
   </nav>
-</header>
 
-<main itemprop="articleBody">
   <nav aria-label="Table of contents" class="grid" style="padding-top: 1rem">
     <article>
       <h3>Contents</h3>
@@ -158,7 +158,7 @@ permalink: /topics/part-8.html
           <em>Collective awakening, shared practices, and societal
           application of the inner Kingdom.</em>
         </p>
-        <a href="part-9.html">Read Part 9 →</a>
+        <a href="{{ site.baseurl }}/topics/part-9.html" class="button">Read Part 9 →</a>
       </article>
 
       <article>

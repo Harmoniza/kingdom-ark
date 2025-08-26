@@ -12,50 +12,50 @@ description: "Explore the full 10-part series on the Ark, hidden scriptures, the
       inner-kingdom Jesus announced, exploring the books and traditions that 
       were suppressed, preserved, or misunderstood.
     </p>
-    <p><a class="btn" href="/topics/">Begin the 10-Part Journey</a></p>
+    <p><a class="btn" href="https://harmoniza.github.io/kingdom-ark/topics/">Begin the 10-Part Journey</a></p>
   </div>
 </section>
 
 <section class="container">
   <h3 class="page-title">Quick entry points</h3>
   <div class="topics-grid">
-    <a class="topic-card" href="/topics/part-1.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-1.html">
       <h2>Part 1</h2>
       <p>The Prophecy & the Ark</p>
     </a>
-    <a class="topic-card" href="/topics/part-2.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-2.html">
       <h2>Part 2</h2>
       <p>Jesus & the Kingdom Within</p>
     </a>
-    <a class="topic-card" href="/topics/part-3.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-3.html">
       <h2>Part 3</h2>
       <p>Hidden & Suppressed Scriptures</p>
     </a>
-    <a class="topic-card" href="/topics/part-4.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-4.html">
       <h2>Part 4</h2>
       <p>The Lost Traditions</p>
     </a>
-    <a class="topic-card" href="/topics/part-5.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-5.html">
       <h2>Part 5</h2>
       <p>The Ark as Inner Temple</p>
     </a>
-    <a class="topic-card" href="/topics/part-6.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-6.html">
       <h2>Part 6</h2>
       <p>Jesus as Fulfillment of Prophecy</p>
     </a>
-    <a class="topic-card" href="/topics/part-7.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-7.html">
       <h2>Part 7</h2>
       <p>The Canon & What Was Excluded</p>
     </a>
-    <a class="topic-card" href="/topics/part-8.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-8.html">
       <h2>Part 8</h2>
       <p>The Mystical Awakening Path</p>
     </a>
-    <a class="topic-card" href="/topics/part-9.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-9.html">
       <h2>Part 9</h2>
       <p>The Kingdom Within in Practice</p>
     </a>
-    <a class="topic-card" href="/topics/part-10.html">
+    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-10.html">
       <h2>Part 10</h2>
       <p>Integration & Study Pack</p>
     </a>

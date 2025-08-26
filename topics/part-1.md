@@ -166,7 +166,7 @@ permalink: /topics/part-1.html
           <em>Jewish Roots Before Jesus:</em> Temple, Torah, prophets, and the
           shift toward the heart.
         </p>
-        <span>Coming soon</span>
+        <a href="{{ site.baseurl }}/topics/part-2.html">Read Part 2 →</a>
       </article>
       <article>
         <h3>Get the study pack (free)</h3>

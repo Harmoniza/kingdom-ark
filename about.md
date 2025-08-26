@@ -28,15 +28,19 @@ permalink: /about.html
 
   <h2>Get Involved</h2>
   <p>
-    You can explore the full study journey by visiting our <a href="/topics/index.html">Topics Index</a>. Join our newsletter to receive the full study pack and stay updated with new materials and reflections.
+    You can explore the full study journey by visiting our 
+    <a href="{{ site.baseurl }}/topics/index.html">Topics Index</a>. 
+    Join our newsletter to receive the full study pack and stay updated with new materials and reflections.
   </p>
 
-  <p class="center"><a class="btn" href="/newsletter.html">Subscribe for the Study Pack</a></p>
+  <p class="center"><a class="btn" href="{{ site.baseurl }}/newsletter.html">Subscribe for the Study Pack</a></p>
 </section>
 
 <section class="container content reveal">
   <h2>Connect With Us</h2>
   <p>
-    We encourage dialogue, reflection, and study. Reach out via our <a href="/contact.html">contact page</a> for questions, suggestions, or to share your insights.
+    We encourage dialogue, reflection, and study. Reach out via our 
+    <a href="{{ site.baseurl }}/contact.html">contact page</a> 
+    for questions, suggestions, or to share your insights.
   </p>
 </section>

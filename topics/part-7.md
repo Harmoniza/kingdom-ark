@@ -123,7 +123,7 @@ permalink: /topics/part-7.html
       <article>
         <h3>Next in the series → Part 8</h3>
         <p><em>Practical meditations, reflections, and consolidating the inner Kingdom journey.</em></p>
-        <a href="part-8.html">Read Part 8 →</a>
+        <a href="{{ site.baseurl }}/topics/part-8.html" class="button">Read Part 8 →</a>
       </article>
 
       <article>

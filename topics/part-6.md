@@ -126,7 +126,7 @@ permalink: /topics/part-6.html
         <em>Modern implications, practices, and mystical continuity of the inner
         Kingdom.</em>
       </p>
-      <a href="part-7.html" class="button">Read Part 7 →</a>
+      <a href="{{ site.baseurl }}/topics/part-7.html" class="button">Read Part 7 →</a>
     </div>
 
     <div class="study-pack">
