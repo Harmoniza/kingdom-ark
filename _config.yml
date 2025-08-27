@@ -5,7 +5,7 @@
 # Site settings
 title: "Kingdom Ark"
 description: "A sanctuary for study, reflection, and inspiration."
-url: "https://harmoniza.github.io/kingdom-ark/"
+url: "https://harmoniza.github.io"
 baseurl: "/kingdom-ark"
 
 # Build settings
@@ -29,18 +29,18 @@ plugins: []
 # Navigation
 navigation:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "About"
-    url: "/about.html"
+    url: "{{ site.baseurl }}/about.html"
   - title: "Contact"
-    url: "/contact.html"
+    url: "{{ site.baseurl }}/contact.html"
   - title: "Newsletter"
-    url: "/newsletter.html"
+    url: "{{ site.baseurl }}/newsletter.html"
   - title: "Topics"
-    url: "/topics/index.html"
+    url: "{{ site.baseurl }}/topics/index.html"
   - title: "Store"
-    url: "/store/"
+    url: "{{ site.baseurl }}/store/"
   - title: "Privacy"
-    url: "/privacy.html"
+    url: "{{ site.baseurl }}/privacy.html"
   - title: "Terms"
-    url: "/terms.html"
+    url: "{{ site.baseurl }}/terms.html"

@@ -1,32 +1,16 @@
----
-layout: default
-title: "Printables & Study Resources"
-description: "Printable materials and study resources from Kingdom Ark"
-permalink: /printables/
----
+# ✨ Printables
 
-<section class="container">
-  <h1>Kingdom Ark Printables</h1>
-  <p>Enhance your reflection, journaling, and meditation practice with our curated digital printables. Each resource is designed to guide you through the Kingdom Ark teachings in a practical, hands-on way.</p>
+This folder stores study packs (PDFs) for each part of the Topics series.
 
-  <div class="topics-grid">
-    <article class="topic-card">
-      <h2>Prophecy & Inner Kingdom Study Pack</h2>
-      <p>Complete PDF pack with reflections, journaling prompts, and summaries from Parts 1–10.</p>
-      <a href="{{ site.baseurl }}/printables/prophecy-study-pack.html">Download & Explore →</a>
-    </article>
+Example filenames:
 
-    <article class="topic-card">
-      <h2>Daily Meditation Sheets</h2>
-      <p>Printable contemplative exercises to support your daily reflection and inner journey.</p>
-      <a href="{{ site.baseurl }}/printables/daily-meditation.html">Download & Explore →</a>
-    </article>
-
-    <article class="topic-card">
-      <h2>Guided Meditation Sheets</h2>
-      <p>Step-by-step guided meditation instructions in printable or digital format.</p>
-      <a href="{{ site.baseurl }}/printables/guided-meditation.html">Download & Explore →</a>
-    </article>
-
-  </div>
-</section>
+- part-1-study-pack.pdf
+- part-2-study-pack.pdf
+- part-3-study-pack.pdf
+- part-4-study-pack.pdf
+- part-5-study-pack.pdf
+- part-6-study-pack.pdf
+- part-7-study-pack.pdf
+- part-8-study-pack.pdf
+- part-9-study-pack.pdf
+- part-10-study-pack.pdf
