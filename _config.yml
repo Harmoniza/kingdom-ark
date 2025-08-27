@@ -5,8 +5,8 @@
 # Site settings
 title: "Kingdom Ark"
 description: "A sanctuary for study, reflection, and inspiration."
-url: "https://harmoniza.github.io"
-baseurl: "/kingdom-ark"
+url: "https://harmoniza.github.io" # local testing
+baseurl: "/kingdom-ark" # leave empty for local dev, GitHub Pages will override
 
 # Build settings
 markdown: kramdown
@@ -26,21 +26,21 @@ exclude:
 # Plugins
 plugins: []
 
-# Navigation
+# Navigation (use relative URLs, NO Liquid here)
 navigation:
   - title: "Home"
-    url: "{{ site.baseurl }}/"
+    url: "/"
   - title: "About"
-    url: "{{ site.baseurl }}/about.html"
+    url: "/about.html"
   - title: "Contact"
-    url: "{{ site.baseurl }}/contact.html"
+    url: "/contact.html"
   - title: "Newsletter"
-    url: "{{ site.baseurl }}/newsletter.html"
+    url: "/newsletter.html"
   - title: "Topics"
-    url: "{{ site.baseurl }}/topics/index.html"
+    url: "/topics/index.html"
   - title: "Store"
-    url: "{{ site.baseurl }}/store/"
+    url: "/store/"
   - title: "Privacy"
-    url: "{{ site.baseurl }}/privacy.html"
+    url: "/privacy.html"
   - title: "Terms"
-    url: "{{ site.baseurl }}/terms.html"
+    url: "/terms.html"
