@@ -38,6 +38,8 @@ navigation:
     url: "/newsletter.html"
   - title: "Topics"
     url: "/topics/index.html"
+  - title: "Printables"
+    url: "/printables/index.html"
   - title: "Store"
     url: "/store/"
   - title: "Privacy"

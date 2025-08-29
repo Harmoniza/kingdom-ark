@@ -10,7 +10,9 @@ _Written on August 19, 2025_
 
 Replace this with full blog content. Each post will cover prophecy, hidden books, spiritual reflections, and ancient beliefs with curious storytelling.
 
-**Suggested freebie:** Offer a one-page printable summary of this blog post to download (lead magnet for newsletter).
+**Suggested freebie:**  
+👉 [📄 Download the Part 1 Study Pack (PDF)]({{ site.baseurl }}/assets/printables/part-1-study-pack.pdf)  
+or [Subscribe to get it by email](https://example.us1.list-manage.com/subscribe/post).
 
 ---
 

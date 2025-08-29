@@ -4,62 +4,39 @@ title: Kingdom & Ark Project — Complete Study Series
 description: "Explore the full 10-part series on the Ark, hidden scriptures, the inner Kingdom, and mystical awakening. Includes downloadable study pack."
 ---
 
-<section class="hero">
-  <div class="hero-content container">
-    <h1>The Prophecy, the Ark, and the Kingdom Within</h1>
-    <p>
-      Welcome. This project traces the arc from ancient temple imagery to the 
-      inner-kingdom Jesus announced, exploring the books and traditions that 
-      were suppressed, preserved, or misunderstood.
-    </p>
-    <p><a class="btn" href="https://harmoniza.github.io/kingdom-ark/topics/">Begin the 10-Part Journey</a></p>
+<section class="container">
+  <h3 class="page-title">📚 Featured Study Packs</h3>
+  <p>Quick access to the first 3 study packs. Click “See All” to explore every part.</p>
+
+  <div class="topics-grid">
+    {% assign pdfs = site.static_files | where_exp:"file","file.path contains '/printables/' and file.extname == '.pdf'" | sort: "name" | slice: 0,3 %}
+    {% for pdf in pdfs %}
+      <a class="topic-card" href="{{ pdf.path }}" target="_blank">
+        <h2>{{ pdf.name | replace: "-study-pack.pdf", "" | replace: "-", " " | capitalize }}</h2>
+        <p>Download PDF</p>
+      </a>
+    {% endfor %}
   </div>
+
+  <p style="margin-top:1rem;">
+    <a class="btn" href="{{ '/printables/' | relative_url }}">See All Study Packs</a>
+  </p>
 </section>
 
-<section class="container">
-  <h3 class="page-title">Quick entry points</h3>
-  <div class="topics-grid">
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-1.html">
-      <h2>Part 1</h2>
-      <p>The Prophecy & the Ark</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-2.html">
-      <h2>Part 2</h2>
-      <p>Jesus & the Kingdom Within</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-3.html">
-      <h2>Part 3</h2>
-      <p>Hidden & Suppressed Scriptures</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-4.html">
-      <h2>Part 4</h2>
-      <p>The Lost Traditions</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-5.html">
-      <h2>Part 5</h2>
-      <p>The Ark as Inner Temple</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-6.html">
-      <h2>Part 6</h2>
-      <p>Jesus as Fulfillment of Prophecy</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-7.html">
-      <h2>Part 7</h2>
-      <p>The Canon & What Was Excluded</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-8.html">
-      <h2>Part 8</h2>
-      <p>The Mystical Awakening Path</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-9.html">
-      <h2>Part 9</h2>
-      <p>The Kingdom Within in Practice</p>
-    </a>
-    <a class="topic-card" href="https://harmoniza.github.io/kingdom-ark/topics/part-10.html">
-      <h2>Part 10</h2>
-      <p>Integration & Study Pack</p>
-    </a>
+<section class="container" style="margin-top: 2rem;">
+  <h3 class="page-title">✨ Featured Printables</h3>
+  <div class="printables-grid">
+    {% assign pdfs = site.static_files | where_exp:"file","file.path contains '/printables/' and file.extname == '.pdf'" | sort: "name" %}
+    {% for pdf in pdfs limit:3 %}
+      <div class="printable-card">
+        <h3>{{ pdf.name | replace: "-study-pack.pdf", "" | replace: "-", " " | capitalize }}</h3>
+        <a href="{{ pdf.path }}" class="btn btn-download">Download</a>
+      </div>
+    {% endfor %}
   </div>
+  <p style="margin-top:1rem;">
+    <a href="{{ '/printables/index.html' | relative_url }}" class="btn btn-download">See All Printables</a>
+  </p>
 </section>
 
 <section id="download" style="margin-top: 2rem">

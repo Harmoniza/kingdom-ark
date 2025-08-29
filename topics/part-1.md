@@ -159,26 +159,15 @@ permalink: /topics/part-1.html
       found when mankind finally realizes that it was never truly lost.
     </p>
 
-    <div class="grid" style="margin-top: 2rem; gap: 1.5rem;">
-      <article>
-        <h3>Next in the series → Part 2</h3>
-        <p>
-          <em>Jewish Roots Before Jesus:</em> Temple, Torah, prophets, and the
-          shift toward the heart.
-        </p>
-        <a href="{{ site.baseurl }}/topics/part-2.html">Read Part 2 →</a>
-      </article>
-      <article>
-        <h3>Get the study pack (free)</h3>
-        <p>
-          We’ll email a printable summary, scripture list, and reflection
-          prompts.
-        </p>
-        <form action="https://example.us1.list-manage.com/subscribe/post" method="POST" target="_blank">
-          <input type="email" name="EMAIL" placeholder="Your email" required />
-          <button type="submit" class="btn">Email me the pack</button>
-        </form>
-      </article>
+    <!-- PART 1: Download + Blog CTA -->
+    <div class="center" style="margin-top:2rem;">
+      <a class="btn" href="{{ '/assets/printables/part-1-study-pack.pdf' | relative_url }}" download>
+        📥 Download Part 1 — Study Pack (PDF)
+      </a>
+      &nbsp;&nbsp;
+      <a class="btn" href="{{ '/blog/part-1-behind-the-ark.html' | relative_url }}">
+        📝 Read the companion reflection
+      </a>
     </div>
 
   </section>
